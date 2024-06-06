@@ -1,0 +1,193 @@
+clingo version 5.7.1
+Reading from n-queens.lp
+Solving...
+Answer: 1
+queen(1,4) queen(2,2) queen(3,7) queen(4,3) queen(5,6) queen(6,8) queen(7,1) queen(8,5)
+Answer: 2
+queen(1,8) queen(2,4) queen(3,1) queen(4,3) queen(5,6) queen(6,2) queen(7,7) queen(8,5)
+Answer: 3
+queen(1,4) queen(2,8) queen(3,1) queen(4,3) queen(5,6) queen(6,2) queen(7,7) queen(8,5)
+Answer: 4
+queen(1,7) queen(2,4) queen(3,2) queen(4,8) queen(5,6) queen(6,1) queen(7,3) queen(8,5)
+Answer: 5
+queen(1,7) queen(2,1) queen(3,3) queen(4,8) queen(5,6) queen(6,4) queen(7,2) queen(8,5)
+Answer: 6
+queen(1,3) queen(2,7) queen(3,2) queen(4,8) queen(5,6) queen(6,4) queen(7,1) queen(8,5)
+Answer: 7
+queen(1,4) queen(2,2) queen(3,7) queen(4,3) queen(5,6) queen(6,8) queen(7,5) queen(8,1)
+Answer: 8
+queen(1,3) queen(2,5) queen(3,2) queen(4,8) queen(5,6) queen(6,4) queen(7,7) queen(8,1)
+Answer: 9
+queen(1,7) queen(2,5) queen(3,3) queen(4,1) queen(5,6) queen(6,8) queen(7,2) queen(8,4)
+Answer: 10
+queen(1,4) queen(2,2) queen(3,5) queen(4,8) queen(5,6) queen(6,1) queen(7,3) queen(8,7)
+Answer: 11
+queen(1,4) queen(2,1) queen(3,5) queen(4,8) queen(5,6) queen(6,3) queen(7,7) queen(8,2)
+Answer: 12
+queen(1,4) queen(2,7) queen(3,5) queen(4,2) queen(5,6) queen(6,1) queen(7,3) queen(8,8)
+Answer: 13
+queen(1,6) queen(2,8) queen(3,2) queen(4,4) queen(5,1) queen(6,7) queen(7,5) queen(8,3)
+Answer: 14
+queen(1,6) queen(2,3) queen(3,7) queen(4,4) queen(5,1) queen(6,8) queen(7,2) queen(8,5)
+Answer: 15
+queen(1,6) queen(2,3) queen(3,5) queen(4,7) queen(5,1) queen(6,4) queen(7,2) queen(8,8)
+Answer: 16
+queen(1,6) queen(2,3) queen(3,5) queen(4,8) queen(5,1) queen(6,4) queen(7,2) queen(8,7)
+Answer: 17
+queen(1,6) queen(2,2) queen(3,7) queen(4,1) queen(5,3) queen(6,5) queen(7,8) queen(8,4)
+Answer: 18
+queen(1,6) queen(2,4) queen(3,7) queen(4,1) queen(5,3) queen(6,5) queen(7,2) queen(8,8)
+Answer: 19
+queen(1,6) queen(2,3) queen(3,7) queen(4,2) queen(5,4) queen(6,8) queen(7,1) queen(8,5)
+Answer: 20
+queen(1,6) queen(2,3) queen(3,1) queen(4,8) queen(5,4) queen(6,2) queen(7,7) queen(8,5)
+Answer: 21
+queen(1,6) queen(2,2) queen(3,7) queen(4,1) queen(5,4) queen(6,8) queen(7,5) queen(8,3)
+Answer: 22
+queen(1,6) queen(2,3) queen(3,1) queen(4,8) queen(5,5) queen(6,2) queen(7,4) queen(8,7)
+Answer: 23
+queen(1,6) queen(2,3) queen(3,1) queen(4,7) queen(5,5) queen(6,8) queen(7,2) queen(8,4)
+Answer: 24
+queen(1,6) queen(2,4) queen(3,2) queen(4,8) queen(5,5) queen(6,7) queen(7,1) queen(8,3)
+Answer: 25
+queen(1,6) queen(2,4) queen(3,7) queen(4,1) queen(5,8) queen(6,2) queen(7,5) queen(8,3)
+Answer: 26
+queen(1,6) queen(2,3) queen(3,7) queen(4,2) queen(5,8) queen(6,5) queen(7,1) queen(8,4)
+Answer: 27
+queen(1,6) queen(2,1) queen(3,5) queen(4,2) queen(5,8) queen(6,3) queen(7,7) queen(8,4)
+Answer: 28
+queen(1,6) queen(2,4) queen(3,1) queen(4,5) queen(5,8) queen(6,2) queen(7,7) queen(8,3)
+Answer: 29
+queen(1,4) queen(2,6) queen(3,8) queen(4,2) queen(5,7) queen(6,1) queen(7,3) queen(8,5)
+Answer: 30
+queen(1,3) queen(2,6) queen(3,2) queen(4,5) queen(5,8) queen(6,1) queen(7,7) queen(8,4)
+Answer: 31
+queen(1,3) queen(2,6) queen(3,8) queen(4,2) queen(5,4) queen(6,1) queen(7,7) queen(8,5)
+Answer: 32
+queen(1,3) queen(2,6) queen(3,2) queen(4,7) queen(5,5) queen(6,1) queen(7,8) queen(8,4)
+Answer: 33
+queen(1,1) queen(2,6) queen(3,8) queen(4,3) queen(5,7) queen(6,4) queen(7,2) queen(8,5)
+Answer: 34
+queen(1,4) queen(2,6) queen(3,8) queen(4,3) queen(5,1) queen(6,7) queen(7,5) queen(8,2)
+Answer: 35
+queen(1,3) queen(2,6) queen(3,2) queen(4,7) queen(5,1) queen(6,4) queen(7,8) queen(8,5)
+Answer: 36
+queen(1,2) queen(2,6) queen(3,8) queen(4,3) queen(5,1) queen(6,4) queen(7,7) queen(8,5)
+Answer: 37
+queen(1,3) queen(2,6) queen(3,8) queen(4,1) queen(5,5) queen(6,7) queen(7,2) queen(8,4)
+Answer: 38
+queen(1,3) queen(2,6) queen(3,4) queen(4,1) queen(5,8) queen(6,5) queen(7,7) queen(8,2)
+Answer: 39
+queen(1,3) queen(2,6) queen(3,8) queen(4,1) queen(5,4) queen(6,7) queen(7,5) queen(8,2)
+Answer: 40
+queen(1,4) queen(2,6) queen(3,1) queen(4,5) queen(5,2) queen(6,8) queen(7,3) queen(8,7)
+Answer: 41
+queen(1,2) queen(2,6) queen(3,1) queen(4,7) queen(5,4) queen(6,8) queen(7,3) queen(8,5)
+Answer: 42
+queen(1,3) queen(2,6) queen(3,4) queen(4,2) queen(5,8) queen(6,5) queen(7,7) queen(8,1)
+Answer: 43
+queen(1,2) queen(2,5) queen(3,7) queen(4,1) queen(5,3) queen(6,8) queen(7,6) queen(8,4)
+Answer: 44
+queen(1,3) queen(2,5) queen(3,7) queen(4,1) queen(5,4) queen(6,2) queen(7,8) queen(8,6)
+Answer: 45
+queen(1,5) queen(2,2) queen(3,6) queen(4,1) queen(5,7) queen(6,4) queen(7,8) queen(8,3)
+Answer: 46
+queen(1,2) queen(2,8) queen(3,6) queen(4,1) queen(5,3) queen(6,5) queen(7,7) queen(8,4)
+Answer: 47
+queen(1,8) queen(2,2) queen(3,4) queen(4,1) queen(5,7) queen(6,5) queen(7,3) queen(8,6)
+Answer: 48
+queen(1,7) queen(2,2) queen(3,4) queen(4,1) queen(5,8) queen(6,5) queen(7,3) queen(8,6)
+Answer: 49
+queen(1,5) queen(2,8) queen(3,4) queen(4,1) queen(5,7) queen(6,2) queen(7,6) queen(8,3)
+Answer: 50
+queen(1,5) queen(2,8) queen(3,4) queen(4,1) queen(5,3) queen(6,6) queen(7,2) queen(8,7)
+Answer: 51
+queen(1,5) queen(2,7) queen(3,4) queen(4,1) queen(5,3) queen(6,8) queen(7,6) queen(8,2)
+Answer: 52
+queen(1,5) queen(2,2) queen(3,8) queen(4,1) queen(5,4) queen(6,7) queen(7,3) queen(8,6)
+Answer: 53
+queen(1,4) queen(2,2) queen(3,8) queen(4,6) queen(5,1) queen(6,3) queen(7,5) queen(8,7)
+Answer: 54
+queen(1,7) queen(2,2) queen(3,6) queen(4,3) queen(5,1) queen(6,4) queen(7,8) queen(8,5)
+Answer: 55
+queen(1,8) queen(2,2) queen(3,5) queen(4,3) queen(5,1) queen(6,7) queen(7,4) queen(8,6)
+Answer: 56
+queen(1,4) queen(2,8) queen(3,5) queen(4,3) queen(5,1) queen(6,7) queen(7,2) queen(8,6)
+Answer: 57
+queen(1,4) queen(2,7) queen(3,5) queen(4,3) queen(5,1) queen(6,6) queen(7,8) queen(8,2)
+Answer: 58
+queen(1,2) queen(2,5) queen(3,7) queen(4,4) queen(5,1) queen(6,8) queen(7,6) queen(8,3)
+Answer: 59
+queen(1,3) queen(2,5) queen(3,8) queen(4,4) queen(5,1) queen(6,7) queen(7,2) queen(8,6)
+Answer: 60
+queen(1,2) queen(2,7) queen(3,5) queen(4,8) queen(5,1) queen(6,4) queen(7,6) queen(8,3)
+Answer: 61
+queen(1,3) queen(2,5) queen(3,2) queen(4,8) queen(5,1) queen(6,7) queen(7,4) queen(8,6)
+Answer: 62
+queen(1,3) queen(2,8) queen(3,4) queen(4,7) queen(5,1) queen(6,6) queen(7,2) queen(8,5)
+Answer: 63
+queen(1,4) queen(2,2) queen(3,7) queen(4,5) queen(5,1) queen(6,8) queen(7,6) queen(8,3)
+Answer: 64
+queen(1,1) queen(2,7) queen(3,4) queen(4,6) queen(5,8) queen(6,2) queen(7,5) queen(8,3)
+Answer: 65
+queen(1,1) queen(2,5) queen(3,8) queen(4,6) queen(5,3) queen(6,7) queen(7,2) queen(8,4)
+Answer: 66
+queen(1,1) queen(2,7) queen(3,5) queen(4,8) queen(5,2) queen(6,4) queen(7,6) queen(8,3)
+Answer: 67
+queen(1,5) queen(2,7) queen(3,1) queen(4,3) queen(5,8) queen(6,6) queen(7,4) queen(8,2)
+Answer: 68
+queen(1,5) queen(2,2) queen(3,4) queen(4,6) queen(5,8) queen(6,3) queen(7,1) queen(8,7)
+Answer: 69
+queen(1,5) queen(2,3) queen(3,1) queen(4,6) queen(5,8) queen(6,2) queen(7,4) queen(8,7)
+Answer: 70
+queen(1,5) queen(2,1) queen(3,4) queen(4,6) queen(5,8) queen(6,2) queen(7,7) queen(8,3)
+Answer: 71
+queen(1,5) queen(2,7) queen(3,2) queen(4,4) queen(5,8) queen(6,1) queen(7,3) queen(8,6)
+Answer: 72
+queen(1,3) queen(2,1) queen(3,7) queen(4,5) queen(5,8) queen(6,2) queen(7,4) queen(8,6)
+Answer: 73
+queen(1,7) queen(2,4) queen(3,2) queen(4,5) queen(5,8) queen(6,1) queen(7,3) queen(8,6)
+Answer: 74
+queen(1,7) queen(2,3) queen(3,1) queen(4,6) queen(5,8) queen(6,5) queen(7,2) queen(8,4)
+Answer: 75
+queen(1,2) queen(2,7) queen(3,3) queen(4,6) queen(5,8) queen(6,5) queen(7,1) queen(8,4)
+Answer: 76
+queen(1,7) queen(2,3) queen(3,8) queen(4,2) queen(5,5) queen(6,1) queen(7,6) queen(8,4)
+Answer: 77
+queen(1,3) queen(2,7) queen(3,2) queen(4,8) queen(5,5) queen(6,1) queen(7,4) queen(8,6)
+Answer: 78
+queen(1,4) queen(2,7) queen(3,1) queen(4,8) queen(5,5) queen(6,2) queen(7,6) queen(8,3)
+Answer: 79
+queen(1,4) queen(2,8) queen(3,1) queen(4,5) queen(5,7) queen(6,2) queen(7,6) queen(8,3)
+Answer: 80
+queen(1,4) queen(2,2) queen(3,8) queen(4,5) queen(5,7) queen(6,1) queen(7,3) queen(8,6)
+Answer: 81
+queen(1,5) queen(2,2) queen(3,4) queen(4,7) queen(5,3) queen(6,8) queen(7,6) queen(8,1)
+Answer: 82
+queen(1,5) queen(2,3) queen(3,1) queen(4,7) queen(5,2) queen(6,8) queen(7,6) queen(8,4)
+Answer: 83
+queen(1,5) queen(2,7) queen(3,1) queen(4,4) queen(5,2) queen(6,8) queen(7,6) queen(8,3)
+Answer: 84
+queen(1,5) queen(2,3) queen(3,8) queen(4,4) queen(5,7) queen(6,1) queen(7,6) queen(8,2)
+Answer: 85
+queen(1,2) queen(2,4) queen(3,6) queen(4,8) queen(5,3) queen(6,1) queen(7,7) queen(8,5)
+Answer: 86
+queen(1,5) queen(2,7) queen(3,2) queen(4,6) queen(5,3) queen(6,1) queen(7,4) queen(8,8)
+Answer: 87
+queen(1,5) queen(2,7) queen(3,2) queen(4,6) queen(5,3) queen(6,1) queen(7,8) queen(8,4)
+Answer: 88
+queen(1,8) queen(2,3) queen(3,1) queen(4,6) queen(5,2) queen(6,5) queen(7,7) queen(8,4)
+Answer: 89
+queen(1,5) queen(2,1) queen(3,8) queen(4,6) queen(5,3) queen(6,7) queen(7,2) queen(8,4)
+Answer: 90
+queen(1,5) queen(2,1) queen(3,8) queen(4,4) queen(5,2) queen(6,7) queen(7,3) queen(8,6)
+Answer: 91
+queen(1,4) queen(2,1) queen(3,5) queen(4,8) queen(5,2) queen(6,7) queen(7,3) queen(8,6)
+Answer: 92
+queen(1,4) queen(2,7) queen(3,3) queen(4,8) queen(5,2) queen(6,5) queen(7,1) queen(8,6)
+SATISFIABLE
+
+Models       : 92
+Calls        : 1
+Time         : 0.207s (Solving: 0.20s 1st Model: 0.00s Unsat: 0.03s)
+CPU Time     : 0.196s
